@@ -1,0 +1,4 @@
+.ftpconfig
+.ftpignore
+venv/
+*.pyc
